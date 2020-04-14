@@ -1,5 +1,4 @@
- 
-  /**
+/**
 
 The MIT License (MIT)
 
@@ -26,23 +25,22 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-
- */  
+ */
 .taps-shadow-wrapper .tap-lf-l.tap-shadow-box, .taps-shadow-wrapper .tap-lf-l.tap-s-box, .taps-shadow-wrapper .tap-lightfrom-left.tap-shadow-box, .taps-shadow-wrapper .tap-lightfrom-left.tap-s-box {
     box-shadow: 9px 0px 10px 5px #27262661; }
-.taps-shadow-wrapper .tap-lf-l.tap-shadow-box.inset, .taps-shadow-wrapper .tap-lf-l.tap-s-box.inset, .taps-shadow-wrapper .tap-lightfrom-left.tap-shadow-box.inset, .taps-shadow-wrapper .tap-lightfrom-left.tap-s-box.inset {
+.taps-shadow-wrapper .tap-lf-l.tap-shadow-box.tap-inset, .taps-shadow-wrapper .tap-lf-l.tap-s-box.tap-inset, .taps-shadow-wrapper .tap-lightfrom-left.tap-shadow-box.tap-inset, .taps-shadow-wrapper .tap-lightfrom-left.tap-s-box.tap-inset {
       box-shadow: 9px 0px 10px 5px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-l.tap-shadow-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lf-l.tap-s-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-left.tap-shadow-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-left.tap-s-box.inset.tap-clickable {
+.taps-shadow-wrapper .tap-lf-l.tap-shadow-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lf-l.tap-s-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-left.tap-shadow-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-left.tap-s-box.tap-inset.tap-clickable {
         cursor: pointer; }
-.taps-shadow-wrapper .tap-lf-l.tap-shadow-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lf-l.tap-s-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-left.tap-shadow-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-left.tap-s-box.inset.tap-clickable:hover {
+.taps-shadow-wrapper .tap-lf-l.tap-shadow-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lf-l.tap-s-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-left.tap-shadow-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-left.tap-s-box.tap-inset.tap-clickable:hover {
           box-shadow: 13px 0px 10px 7px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-l.tap-shadow-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lf-l.tap-s-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-left.tap-shadow-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-left.tap-s-box.inset.tap-clickable:active {
+.taps-shadow-wrapper .tap-lf-l.tap-shadow-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lf-l.tap-s-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-left.tap-shadow-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-left.tap-s-box.tap-inset.tap-clickable:active {
           box-shadow: 7px 0px 10px 7px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-l.tap-shadow-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lf-l.tap-s-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-left.tap-shadow-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-left.tap-s-box.inset.tap-clickable-noinset {
+.taps-shadow-wrapper .tap-lf-l.tap-shadow-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lf-l.tap-s-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-left.tap-shadow-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-left.tap-s-box.tap-inset.tap-clickable-noinset {
         cursor: pointer; }
-.taps-shadow-wrapper .tap-lf-l.tap-shadow-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lf-l.tap-s-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-left.tap-shadow-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-left.tap-s-box.inset.tap-clickable-noinset:hover {
+.taps-shadow-wrapper .tap-lf-l.tap-shadow-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lf-l.tap-s-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-left.tap-shadow-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-left.tap-s-box.tap-inset.tap-clickable-noinset:hover {
           box-shadow: 13px 0px 10px 7px #27262661; }
-.taps-shadow-wrapper .tap-lf-l.tap-shadow-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lf-l.tap-s-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-left.tap-shadow-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-left.tap-s-box.inset.tap-clickable-noinset:active {
+.taps-shadow-wrapper .tap-lf-l.tap-shadow-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lf-l.tap-s-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-left.tap-shadow-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-left.tap-s-box.tap-inset.tap-clickable-noinset:active {
           box-shadow: 7px 0px 10px 7px #27262661 inset; }
 .taps-shadow-wrapper .tap-lf-l.tap-shadow-box.tap-grad-circle, .taps-shadow-wrapper .tap-lf-l.tap-shadow-box.tap-g-cir, .taps-shadow-wrapper .tap-lf-l.tap-s-box.tap-grad-circle, .taps-shadow-wrapper .tap-lf-l.tap-s-box.tap-g-cir, .taps-shadow-wrapper .tap-lightfrom-left.tap-shadow-box.tap-grad-circle, .taps-shadow-wrapper .tap-lightfrom-left.tap-shadow-box.tap-g-cir, .taps-shadow-wrapper .tap-lightfrom-left.tap-s-box.tap-grad-circle, .taps-shadow-wrapper .tap-lightfrom-left.tap-s-box.tap-g-cir {
       background-image: radial-gradient(circle at 20% 50%, #06060600, #0000005c 100%) !important; }
@@ -64,19 +62,19 @@ THE SOFTWARE.
         text-shadow: 4px 0px 8px #464545fc; }
 .taps-shadow-wrapper .tap-lf-r.tap-shadow-box, .taps-shadow-wrapper .tap-lf-r.tap-s-box, .taps-shadow-wrapper .tap-lightfrom-right.tap-shadow-box, .taps-shadow-wrapper .tap-lightfrom-right.tap-s-box {
     box-shadow: -9px 0px 10px 5px #27262661; }
-.taps-shadow-wrapper .tap-lf-r.tap-shadow-box.inset, .taps-shadow-wrapper .tap-lf-r.tap-s-box.inset, .taps-shadow-wrapper .tap-lightfrom-right.tap-shadow-box.inset, .taps-shadow-wrapper .tap-lightfrom-right.tap-s-box.inset {
+.taps-shadow-wrapper .tap-lf-r.tap-shadow-box.tap-inset, .taps-shadow-wrapper .tap-lf-r.tap-s-box.tap-inset, .taps-shadow-wrapper .tap-lightfrom-right.tap-shadow-box.tap-inset, .taps-shadow-wrapper .tap-lightfrom-right.tap-s-box.tap-inset {
       box-shadow: -9px 0px 10px 5px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-r.tap-shadow-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lf-r.tap-s-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-right.tap-shadow-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-right.tap-s-box.inset.tap-clickable {
+.taps-shadow-wrapper .tap-lf-r.tap-shadow-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lf-r.tap-s-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-right.tap-shadow-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-right.tap-s-box.tap-inset.tap-clickable {
         cursor: pointer; }
-.taps-shadow-wrapper .tap-lf-r.tap-shadow-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lf-r.tap-s-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-right.tap-shadow-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-right.tap-s-box.inset.tap-clickable:hover {
+.taps-shadow-wrapper .tap-lf-r.tap-shadow-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lf-r.tap-s-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-right.tap-shadow-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-right.tap-s-box.tap-inset.tap-clickable:hover {
           box-shadow: -13px 0px 10px 7px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-r.tap-shadow-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lf-r.tap-s-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-right.tap-shadow-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-right.tap-s-box.inset.tap-clickable:active {
+.taps-shadow-wrapper .tap-lf-r.tap-shadow-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lf-r.tap-s-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-right.tap-shadow-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-right.tap-s-box.tap-inset.tap-clickable:active {
           box-shadow: -7px 0px 10px 7px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-r.tap-shadow-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lf-r.tap-s-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-right.tap-shadow-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-right.tap-s-box.inset.tap-clickable-noinset {
+.taps-shadow-wrapper .tap-lf-r.tap-shadow-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lf-r.tap-s-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-right.tap-shadow-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-right.tap-s-box.tap-inset.tap-clickable-noinset {
         cursor: pointer; }
-.taps-shadow-wrapper .tap-lf-r.tap-shadow-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lf-r.tap-s-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-right.tap-shadow-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-right.tap-s-box.inset.tap-clickable-noinset:hover {
+.taps-shadow-wrapper .tap-lf-r.tap-shadow-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lf-r.tap-s-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-right.tap-shadow-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-right.tap-s-box.tap-inset.tap-clickable-noinset:hover {
           box-shadow: -13px 0px 10px 7px #27262661; }
-.taps-shadow-wrapper .tap-lf-r.tap-shadow-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lf-r.tap-s-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-right.tap-shadow-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-right.tap-s-box.inset.tap-clickable-noinset:active {
+.taps-shadow-wrapper .tap-lf-r.tap-shadow-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lf-r.tap-s-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-right.tap-shadow-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-right.tap-s-box.tap-inset.tap-clickable-noinset:active {
           box-shadow: -7px 0px 10px 7px #27262661 inset; }
 .taps-shadow-wrapper .tap-lf-r.tap-shadow-box.tap-grad-circle, .taps-shadow-wrapper .tap-lf-r.tap-shadow-box.tap-g-cir, .taps-shadow-wrapper .tap-lf-r.tap-s-box.tap-grad-circle, .taps-shadow-wrapper .tap-lf-r.tap-s-box.tap-g-cir, .taps-shadow-wrapper .tap-lightfrom-right.tap-shadow-box.tap-grad-circle, .taps-shadow-wrapper .tap-lightfrom-right.tap-shadow-box.tap-g-cir, .taps-shadow-wrapper .tap-lightfrom-right.tap-s-box.tap-grad-circle, .taps-shadow-wrapper .tap-lightfrom-right.tap-s-box.tap-g-cir {
       background-image: radial-gradient(circle at 75% 50%, #06060600, #0000005c 100%) !important; }
@@ -98,19 +96,19 @@ THE SOFTWARE.
         text-shadow: -4px 0px 8px #464545fc; }
 .taps-shadow-wrapper .tap-lf-t.tap-shadow-box, .taps-shadow-wrapper .tap-lf-t.tap-s-box, .taps-shadow-wrapper .tap-lightfrom-top.tap-shadow-box, .taps-shadow-wrapper .tap-lightfrom-top.tap-s-box {
     box-shadow: 0px 9px 10px 5px #27262661; }
-.taps-shadow-wrapper .tap-lf-t.tap-shadow-box.inset, .taps-shadow-wrapper .tap-lf-t.tap-s-box.inset, .taps-shadow-wrapper .tap-lightfrom-top.tap-shadow-box.inset, .taps-shadow-wrapper .tap-lightfrom-top.tap-s-box.inset {
+.taps-shadow-wrapper .tap-lf-t.tap-shadow-box.tap-inset, .taps-shadow-wrapper .tap-lf-t.tap-s-box.tap-inset, .taps-shadow-wrapper .tap-lightfrom-top.tap-shadow-box.tap-inset, .taps-shadow-wrapper .tap-lightfrom-top.tap-s-box.tap-inset {
       box-shadow: 0px 9px 10px 5px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-t.tap-shadow-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lf-t.tap-s-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-top.tap-shadow-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-top.tap-s-box.inset.tap-clickable {
+.taps-shadow-wrapper .tap-lf-t.tap-shadow-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lf-t.tap-s-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-top.tap-shadow-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-top.tap-s-box.tap-inset.tap-clickable {
         cursor: pointer; }
-.taps-shadow-wrapper .tap-lf-t.tap-shadow-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lf-t.tap-s-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-top.tap-shadow-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-top.tap-s-box.inset.tap-clickable:hover {
+.taps-shadow-wrapper .tap-lf-t.tap-shadow-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lf-t.tap-s-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-top.tap-shadow-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-top.tap-s-box.tap-inset.tap-clickable:hover {
           box-shadow: 0px 13px 10px 7px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-t.tap-shadow-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lf-t.tap-s-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-top.tap-shadow-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-top.tap-s-box.inset.tap-clickable:active {
+.taps-shadow-wrapper .tap-lf-t.tap-shadow-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lf-t.tap-s-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-top.tap-shadow-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-top.tap-s-box.tap-inset.tap-clickable:active {
           box-shadow: 0px 7px 10px 7px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-t.tap-shadow-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lf-t.tap-s-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-top.tap-shadow-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-top.tap-s-box.inset.tap-clickable-noinset {
+.taps-shadow-wrapper .tap-lf-t.tap-shadow-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lf-t.tap-s-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-top.tap-shadow-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-top.tap-s-box.tap-inset.tap-clickable-noinset {
         cursor: pointer; }
-.taps-shadow-wrapper .tap-lf-t.tap-shadow-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lf-t.tap-s-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-top.tap-shadow-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-top.tap-s-box.inset.tap-clickable-noinset:hover {
+.taps-shadow-wrapper .tap-lf-t.tap-shadow-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lf-t.tap-s-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-top.tap-shadow-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-top.tap-s-box.tap-inset.tap-clickable-noinset:hover {
           box-shadow: 0px 13px 10px 7px #27262661; }
-.taps-shadow-wrapper .tap-lf-t.tap-shadow-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lf-t.tap-s-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-top.tap-shadow-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-top.tap-s-box.inset.tap-clickable-noinset:active {
+.taps-shadow-wrapper .tap-lf-t.tap-shadow-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lf-t.tap-s-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-top.tap-shadow-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-top.tap-s-box.tap-inset.tap-clickable-noinset:active {
           box-shadow: 0px 7px 10px 7px #27262661 inset; }
 .taps-shadow-wrapper .tap-lf-t.tap-shadow-box.tap-grad-circle, .taps-shadow-wrapper .tap-lf-t.tap-shadow-box.tap-g-cir, .taps-shadow-wrapper .tap-lf-t.tap-s-box.tap-grad-circle, .taps-shadow-wrapper .tap-lf-t.tap-s-box.tap-g-cir, .taps-shadow-wrapper .tap-lightfrom-top.tap-shadow-box.tap-grad-circle, .taps-shadow-wrapper .tap-lightfrom-top.tap-shadow-box.tap-g-cir, .taps-shadow-wrapper .tap-lightfrom-top.tap-s-box.tap-grad-circle, .taps-shadow-wrapper .tap-lightfrom-top.tap-s-box.tap-g-cir {
       background-image: radial-gradient(circle at 50% 25%, #06060600, #0000005c 100%) !important; }
@@ -132,19 +130,19 @@ THE SOFTWARE.
         text-shadow: 0px 4px 8px #464545fc; }
 .taps-shadow-wrapper .tap-lf-b.tap-shadow-box, .taps-shadow-wrapper .tap-lf-b.tap-s-box, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-shadow-box, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-s-box {
     box-shadow: 0px -9px 10px 5px #27262661; }
-.taps-shadow-wrapper .tap-lf-b.tap-shadow-box.inset, .taps-shadow-wrapper .tap-lf-b.tap-s-box.inset, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-shadow-box.inset, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-s-box.inset {
+.taps-shadow-wrapper .tap-lf-b.tap-shadow-box.tap-inset, .taps-shadow-wrapper .tap-lf-b.tap-s-box.tap-inset, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-shadow-box.tap-inset, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-s-box.tap-inset {
       box-shadow: 0px -9px 10px 5px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-b.tap-shadow-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lf-b.tap-s-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-shadow-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-s-box.inset.tap-clickable {
+.taps-shadow-wrapper .tap-lf-b.tap-shadow-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lf-b.tap-s-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-shadow-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-s-box.tap-inset.tap-clickable {
         cursor: pointer; }
-.taps-shadow-wrapper .tap-lf-b.tap-shadow-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lf-b.tap-s-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-shadow-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-s-box.inset.tap-clickable:hover {
+.taps-shadow-wrapper .tap-lf-b.tap-shadow-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lf-b.tap-s-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-shadow-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-s-box.tap-inset.tap-clickable:hover {
           box-shadow: 0px -13px 10px 7px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-b.tap-shadow-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lf-b.tap-s-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-shadow-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-s-box.inset.tap-clickable:active {
+.taps-shadow-wrapper .tap-lf-b.tap-shadow-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lf-b.tap-s-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-shadow-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-s-box.tap-inset.tap-clickable:active {
           box-shadow: 0px -7px 10px 7px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-b.tap-shadow-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lf-b.tap-s-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-shadow-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-s-box.inset.tap-clickable-noinset {
+.taps-shadow-wrapper .tap-lf-b.tap-shadow-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lf-b.tap-s-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-shadow-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-s-box.tap-inset.tap-clickable-noinset {
         cursor: pointer; }
-.taps-shadow-wrapper .tap-lf-b.tap-shadow-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lf-b.tap-s-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-shadow-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-s-box.inset.tap-clickable-noinset:hover {
+.taps-shadow-wrapper .tap-lf-b.tap-shadow-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lf-b.tap-s-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-shadow-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-s-box.tap-inset.tap-clickable-noinset:hover {
           box-shadow: 0px -13px 10px 7px #27262661; }
-.taps-shadow-wrapper .tap-lf-b.tap-shadow-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lf-b.tap-s-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-shadow-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-s-box.inset.tap-clickable-noinset:active {
+.taps-shadow-wrapper .tap-lf-b.tap-shadow-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lf-b.tap-s-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-shadow-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-s-box.tap-inset.tap-clickable-noinset:active {
           box-shadow: 0px -7px 10px 7px #27262661 inset; }
 .taps-shadow-wrapper .tap-lf-b.tap-shadow-box.tap-grad-circle, .taps-shadow-wrapper .tap-lf-b.tap-shadow-box.tap-g-cir, .taps-shadow-wrapper .tap-lf-b.tap-s-box.tap-grad-circle, .taps-shadow-wrapper .tap-lf-b.tap-s-box.tap-g-cir, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-shadow-box.tap-grad-circle, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-shadow-box.tap-g-cir, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-s-box.tap-grad-circle, .taps-shadow-wrapper .tap-lightfrom-bottom.tap-s-box.tap-g-cir {
       background-image: radial-gradient(circle at 50% 75%, #06060600, #0000005c 100%) !important; }
@@ -166,19 +164,19 @@ THE SOFTWARE.
         text-shadow: 0px -4px 8px #464545fc; }
 .taps-shadow-wrapper .tap-lf-tr.tap-shadow-box, .taps-shadow-wrapper .tap-lf-tr.tap-s-box, .taps-shadow-wrapper .tap-lightfrom-topright.tap-shadow-box, .taps-shadow-wrapper .tap-lightfrom-topright.tap-s-box {
     box-shadow: -9px 9px 10px 5px #27262661; }
-.taps-shadow-wrapper .tap-lf-tr.tap-shadow-box.inset, .taps-shadow-wrapper .tap-lf-tr.tap-s-box.inset, .taps-shadow-wrapper .tap-lightfrom-topright.tap-shadow-box.inset, .taps-shadow-wrapper .tap-lightfrom-topright.tap-s-box.inset {
+.taps-shadow-wrapper .tap-lf-tr.tap-shadow-box.tap-inset, .taps-shadow-wrapper .tap-lf-tr.tap-s-box.tap-inset, .taps-shadow-wrapper .tap-lightfrom-topright.tap-shadow-box.tap-inset, .taps-shadow-wrapper .tap-lightfrom-topright.tap-s-box.tap-inset {
       box-shadow: -9px 9px 10px 5px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-tr.tap-shadow-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lf-tr.tap-s-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-topright.tap-shadow-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-topright.tap-s-box.inset.tap-clickable {
+.taps-shadow-wrapper .tap-lf-tr.tap-shadow-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lf-tr.tap-s-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-topright.tap-shadow-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-topright.tap-s-box.tap-inset.tap-clickable {
         cursor: pointer; }
-.taps-shadow-wrapper .tap-lf-tr.tap-shadow-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lf-tr.tap-s-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-topright.tap-shadow-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-topright.tap-s-box.inset.tap-clickable:hover {
+.taps-shadow-wrapper .tap-lf-tr.tap-shadow-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lf-tr.tap-s-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-topright.tap-shadow-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-topright.tap-s-box.tap-inset.tap-clickable:hover {
           box-shadow: -13px 13px 10px 7px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-tr.tap-shadow-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lf-tr.tap-s-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-topright.tap-shadow-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-topright.tap-s-box.inset.tap-clickable:active {
+.taps-shadow-wrapper .tap-lf-tr.tap-shadow-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lf-tr.tap-s-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-topright.tap-shadow-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-topright.tap-s-box.tap-inset.tap-clickable:active {
           box-shadow: -7px 7px 10px 7px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-tr.tap-shadow-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lf-tr.tap-s-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-topright.tap-shadow-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-topright.tap-s-box.inset.tap-clickable-noinset {
+.taps-shadow-wrapper .tap-lf-tr.tap-shadow-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lf-tr.tap-s-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-topright.tap-shadow-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-topright.tap-s-box.tap-inset.tap-clickable-noinset {
         cursor: pointer; }
-.taps-shadow-wrapper .tap-lf-tr.tap-shadow-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lf-tr.tap-s-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-topright.tap-shadow-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-topright.tap-s-box.inset.tap-clickable-noinset:hover {
+.taps-shadow-wrapper .tap-lf-tr.tap-shadow-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lf-tr.tap-s-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-topright.tap-shadow-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-topright.tap-s-box.tap-inset.tap-clickable-noinset:hover {
           box-shadow: -13px 13px 10px 7px #27262661; }
-.taps-shadow-wrapper .tap-lf-tr.tap-shadow-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lf-tr.tap-s-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-topright.tap-shadow-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-topright.tap-s-box.inset.tap-clickable-noinset:active {
+.taps-shadow-wrapper .tap-lf-tr.tap-shadow-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lf-tr.tap-s-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-topright.tap-shadow-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-topright.tap-s-box.tap-inset.tap-clickable-noinset:active {
           box-shadow: -7px 7px 10px 7px #27262661 inset; }
 .taps-shadow-wrapper .tap-lf-tr.tap-shadow-box.tap-grad-circle, .taps-shadow-wrapper .tap-lf-tr.tap-shadow-box.tap-g-cir, .taps-shadow-wrapper .tap-lf-tr.tap-s-box.tap-grad-circle, .taps-shadow-wrapper .tap-lf-tr.tap-s-box.tap-g-cir, .taps-shadow-wrapper .tap-lightfrom-topright.tap-shadow-box.tap-grad-circle, .taps-shadow-wrapper .tap-lightfrom-topright.tap-shadow-box.tap-g-cir, .taps-shadow-wrapper .tap-lightfrom-topright.tap-s-box.tap-grad-circle, .taps-shadow-wrapper .tap-lightfrom-topright.tap-s-box.tap-g-cir {
       background-image: radial-gradient(circle at 75% 25%, #06060600, #0000005c 100%) !important; }
@@ -200,19 +198,19 @@ THE SOFTWARE.
         text-shadow: -4px 4px 8px #464545fc; }
 .taps-shadow-wrapper .tap-lf-tl.tap-shadow-box, .taps-shadow-wrapper .tap-lf-tl.tap-s-box, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-shadow-box, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-s-box {
     box-shadow: 9px 9px 10px 5px #27262661; }
-.taps-shadow-wrapper .tap-lf-tl.tap-shadow-box.inset, .taps-shadow-wrapper .tap-lf-tl.tap-s-box.inset, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-shadow-box.inset, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-s-box.inset {
+.taps-shadow-wrapper .tap-lf-tl.tap-shadow-box.tap-inset, .taps-shadow-wrapper .tap-lf-tl.tap-s-box.tap-inset, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-shadow-box.tap-inset, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-s-box.tap-inset {
       box-shadow: 9px 9px 10px 5px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-tl.tap-shadow-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lf-tl.tap-s-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-shadow-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-s-box.inset.tap-clickable {
+.taps-shadow-wrapper .tap-lf-tl.tap-shadow-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lf-tl.tap-s-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-shadow-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-s-box.tap-inset.tap-clickable {
         cursor: pointer; }
-.taps-shadow-wrapper .tap-lf-tl.tap-shadow-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lf-tl.tap-s-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-shadow-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-s-box.inset.tap-clickable:hover {
+.taps-shadow-wrapper .tap-lf-tl.tap-shadow-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lf-tl.tap-s-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-shadow-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-s-box.tap-inset.tap-clickable:hover {
           box-shadow: 13px 13px 10px 7px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-tl.tap-shadow-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lf-tl.tap-s-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-shadow-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-s-box.inset.tap-clickable:active {
+.taps-shadow-wrapper .tap-lf-tl.tap-shadow-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lf-tl.tap-s-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-shadow-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-s-box.tap-inset.tap-clickable:active {
           box-shadow: 7px 7px 10px 7px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-tl.tap-shadow-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lf-tl.tap-s-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-shadow-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-s-box.inset.tap-clickable-noinset {
+.taps-shadow-wrapper .tap-lf-tl.tap-shadow-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lf-tl.tap-s-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-shadow-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-s-box.tap-inset.tap-clickable-noinset {
         cursor: pointer; }
-.taps-shadow-wrapper .tap-lf-tl.tap-shadow-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lf-tl.tap-s-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-shadow-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-s-box.inset.tap-clickable-noinset:hover {
+.taps-shadow-wrapper .tap-lf-tl.tap-shadow-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lf-tl.tap-s-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-shadow-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-s-box.tap-inset.tap-clickable-noinset:hover {
           box-shadow: 13px 13px 10px 7px #27262661; }
-.taps-shadow-wrapper .tap-lf-tl.tap-shadow-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lf-tl.tap-s-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-shadow-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-s-box.inset.tap-clickable-noinset:active {
+.taps-shadow-wrapper .tap-lf-tl.tap-shadow-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lf-tl.tap-s-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-shadow-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-s-box.tap-inset.tap-clickable-noinset:active {
           box-shadow: 7px 7px 10px 7px #27262661 inset; }
 .taps-shadow-wrapper .tap-lf-tl.tap-shadow-box.tap-grad-circle, .taps-shadow-wrapper .tap-lf-tl.tap-shadow-box.tap-g-cir, .taps-shadow-wrapper .tap-lf-tl.tap-s-box.tap-grad-circle, .taps-shadow-wrapper .tap-lf-tl.tap-s-box.tap-g-cir, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-shadow-box.tap-grad-circle, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-shadow-box.tap-g-cir, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-s-box.tap-grad-circle, .taps-shadow-wrapper .tap-lightfrom-topleft.tap-s-box.tap-g-cir {
       background-image: radial-gradient(circle at 25% 25%, #06060600, #0000005c 100%) !important; }
@@ -234,19 +232,19 @@ THE SOFTWARE.
         text-shadow: 4px 4px 8px #464545fc; }
 .taps-shadow-wrapper .tap-lf-br.tap-shadow-box, .taps-shadow-wrapper .tap-lf-br.tap-s-box, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-shadow-box, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-s-box {
     box-shadow: -9px -9px 10px 5px #27262661; }
-.taps-shadow-wrapper .tap-lf-br.tap-shadow-box.inset, .taps-shadow-wrapper .tap-lf-br.tap-s-box.inset, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-shadow-box.inset, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-s-box.inset {
+.taps-shadow-wrapper .tap-lf-br.tap-shadow-box.tap-inset, .taps-shadow-wrapper .tap-lf-br.tap-s-box.tap-inset, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-shadow-box.tap-inset, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-s-box.tap-inset {
       box-shadow: -9px -9px 10px 5px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-br.tap-shadow-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lf-br.tap-s-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-shadow-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-s-box.inset.tap-clickable {
+.taps-shadow-wrapper .tap-lf-br.tap-shadow-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lf-br.tap-s-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-shadow-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-s-box.tap-inset.tap-clickable {
         cursor: pointer; }
-.taps-shadow-wrapper .tap-lf-br.tap-shadow-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lf-br.tap-s-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-shadow-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-s-box.inset.tap-clickable:hover {
+.taps-shadow-wrapper .tap-lf-br.tap-shadow-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lf-br.tap-s-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-shadow-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-s-box.tap-inset.tap-clickable:hover {
           box-shadow: -13px -13px 10px 7px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-br.tap-shadow-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lf-br.tap-s-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-shadow-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-s-box.inset.tap-clickable:active {
+.taps-shadow-wrapper .tap-lf-br.tap-shadow-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lf-br.tap-s-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-shadow-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-s-box.tap-inset.tap-clickable:active {
           box-shadow: -7px -7px 10px 7px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-br.tap-shadow-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lf-br.tap-s-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-shadow-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-s-box.inset.tap-clickable-noinset {
+.taps-shadow-wrapper .tap-lf-br.tap-shadow-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lf-br.tap-s-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-shadow-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-s-box.tap-inset.tap-clickable-noinset {
         cursor: pointer; }
-.taps-shadow-wrapper .tap-lf-br.tap-shadow-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lf-br.tap-s-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-shadow-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-s-box.inset.tap-clickable-noinset:hover {
+.taps-shadow-wrapper .tap-lf-br.tap-shadow-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lf-br.tap-s-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-shadow-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-s-box.tap-inset.tap-clickable-noinset:hover {
           box-shadow: -13px -13px 10px 7px #27262661; }
-.taps-shadow-wrapper .tap-lf-br.tap-shadow-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lf-br.tap-s-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-shadow-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-s-box.inset.tap-clickable-noinset:active {
+.taps-shadow-wrapper .tap-lf-br.tap-shadow-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lf-br.tap-s-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-shadow-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-s-box.tap-inset.tap-clickable-noinset:active {
           box-shadow: -7px -7px 10px 7px #27262661 inset; }
 .taps-shadow-wrapper .tap-lf-br.tap-shadow-box.tap-grad-circle, .taps-shadow-wrapper .tap-lf-br.tap-shadow-box.tap-g-cir, .taps-shadow-wrapper .tap-lf-br.tap-s-box.tap-grad-circle, .taps-shadow-wrapper .tap-lf-br.tap-s-box.tap-g-cir, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-shadow-box.tap-grad-circle, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-shadow-box.tap-g-cir, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-s-box.tap-grad-circle, .taps-shadow-wrapper .tap-lightfrom-bottomright.tap-s-box.tap-g-cir {
       background-image: radial-gradient(circle at 75% 75%, #06060600, #0000005c 100%) !important; }
@@ -268,19 +266,19 @@ THE SOFTWARE.
         text-shadow: -4px -4px 8px #464545fc; }
 .taps-shadow-wrapper .tap-lf-bl.tap-shadow-box, .taps-shadow-wrapper .tap-lf-bl.tap-s-box, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-shadow-box, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-s-box {
     box-shadow: 9px -9px 10px 5px #27262661; }
-.taps-shadow-wrapper .tap-lf-bl.tap-shadow-box.inset, .taps-shadow-wrapper .tap-lf-bl.tap-s-box.inset, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-shadow-box.inset, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-s-box.inset {
+.taps-shadow-wrapper .tap-lf-bl.tap-shadow-box.tap-inset, .taps-shadow-wrapper .tap-lf-bl.tap-s-box.tap-inset, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-shadow-box.tap-inset, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-s-box.tap-inset {
       box-shadow: 9px -9px 10px 5px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-bl.tap-shadow-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lf-bl.tap-s-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-shadow-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-s-box.inset.tap-clickable {
+.taps-shadow-wrapper .tap-lf-bl.tap-shadow-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lf-bl.tap-s-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-shadow-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-s-box.tap-inset.tap-clickable {
         cursor: pointer; }
-.taps-shadow-wrapper .tap-lf-bl.tap-shadow-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lf-bl.tap-s-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-shadow-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-s-box.inset.tap-clickable:hover {
+.taps-shadow-wrapper .tap-lf-bl.tap-shadow-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lf-bl.tap-s-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-shadow-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-s-box.tap-inset.tap-clickable:hover {
           box-shadow: 13px -13px 10px 7px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-bl.tap-shadow-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lf-bl.tap-s-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-shadow-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-s-box.inset.tap-clickable:active {
+.taps-shadow-wrapper .tap-lf-bl.tap-shadow-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lf-bl.tap-s-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-shadow-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-s-box.tap-inset.tap-clickable:active {
           box-shadow: 7px -7px 10px 7px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-bl.tap-shadow-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lf-bl.tap-s-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-shadow-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-s-box.inset.tap-clickable-noinset {
+.taps-shadow-wrapper .tap-lf-bl.tap-shadow-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lf-bl.tap-s-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-shadow-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-s-box.tap-inset.tap-clickable-noinset {
         cursor: pointer; }
-.taps-shadow-wrapper .tap-lf-bl.tap-shadow-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lf-bl.tap-s-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-shadow-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-s-box.inset.tap-clickable-noinset:hover {
+.taps-shadow-wrapper .tap-lf-bl.tap-shadow-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lf-bl.tap-s-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-shadow-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-s-box.tap-inset.tap-clickable-noinset:hover {
           box-shadow: 13px -13px 10px 7px #27262661; }
-.taps-shadow-wrapper .tap-lf-bl.tap-shadow-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lf-bl.tap-s-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-shadow-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-s-box.inset.tap-clickable-noinset:active {
+.taps-shadow-wrapper .tap-lf-bl.tap-shadow-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lf-bl.tap-s-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-shadow-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-s-box.tap-inset.tap-clickable-noinset:active {
           box-shadow: 7px -7px 10px 7px #27262661 inset; }
 .taps-shadow-wrapper .tap-lf-bl.tap-shadow-box.tap-grad-circle, .taps-shadow-wrapper .tap-lf-bl.tap-shadow-box.tap-g-cir, .taps-shadow-wrapper .tap-lf-bl.tap-s-box.tap-grad-circle, .taps-shadow-wrapper .tap-lf-bl.tap-s-box.tap-g-cir, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-shadow-box.tap-grad-circle, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-shadow-box.tap-g-cir, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-s-box.tap-grad-circle, .taps-shadow-wrapper .tap-lightfrom-bottomleft.tap-s-box.tap-g-cir {
       background-image: radial-gradient(circle at 25% 75%, #06060600, #0000005c 100%) !important; }
@@ -302,19 +300,19 @@ THE SOFTWARE.
         text-shadow: 4px -4px 8px #464545fc; }
 .taps-shadow-wrapper .tap-lf-f.tap-shadow-box, .taps-shadow-wrapper .tap-lf-f.tap-s-box, .taps-shadow-wrapper .tap-lightfrom-front.tap-shadow-box, .taps-shadow-wrapper .tap-lightfrom-front.tap-s-box {
     box-shadow: 0px 0px 10px 5px #27262661; }
-.taps-shadow-wrapper .tap-lf-f.tap-shadow-box.inset, .taps-shadow-wrapper .tap-lf-f.tap-s-box.inset, .taps-shadow-wrapper .tap-lightfrom-front.tap-shadow-box.inset, .taps-shadow-wrapper .tap-lightfrom-front.tap-s-box.inset {
+.taps-shadow-wrapper .tap-lf-f.tap-shadow-box.tap-inset, .taps-shadow-wrapper .tap-lf-f.tap-s-box.tap-inset, .taps-shadow-wrapper .tap-lightfrom-front.tap-shadow-box.tap-inset, .taps-shadow-wrapper .tap-lightfrom-front.tap-s-box.tap-inset {
       box-shadow: 0px 0px 10px 5px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-f.tap-shadow-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lf-f.tap-s-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-front.tap-shadow-box.inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-front.tap-s-box.inset.tap-clickable {
+.taps-shadow-wrapper .tap-lf-f.tap-shadow-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lf-f.tap-s-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-front.tap-shadow-box.tap-inset.tap-clickable, .taps-shadow-wrapper .tap-lightfrom-front.tap-s-box.tap-inset.tap-clickable {
         cursor: pointer; }
-.taps-shadow-wrapper .tap-lf-f.tap-shadow-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lf-f.tap-s-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-front.tap-shadow-box.inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-front.tap-s-box.inset.tap-clickable:hover {
+.taps-shadow-wrapper .tap-lf-f.tap-shadow-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lf-f.tap-s-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-front.tap-shadow-box.tap-inset.tap-clickable:hover, .taps-shadow-wrapper .tap-lightfrom-front.tap-s-box.tap-inset.tap-clickable:hover {
           box-shadow: 0px 0px 10px 10px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-f.tap-shadow-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lf-f.tap-s-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-front.tap-shadow-box.inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-front.tap-s-box.inset.tap-clickable:active {
+.taps-shadow-wrapper .tap-lf-f.tap-shadow-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lf-f.tap-s-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-front.tap-shadow-box.tap-inset.tap-clickable:active, .taps-shadow-wrapper .tap-lightfrom-front.tap-s-box.tap-inset.tap-clickable:active {
           box-shadow: 0px 0px 10px 6px #27262661 inset; }
-.taps-shadow-wrapper .tap-lf-f.tap-shadow-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lf-f.tap-s-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-front.tap-shadow-box.inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-front.tap-s-box.inset.tap-clickable-noinset {
+.taps-shadow-wrapper .tap-lf-f.tap-shadow-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lf-f.tap-s-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-front.tap-shadow-box.tap-inset.tap-clickable-noinset, .taps-shadow-wrapper .tap-lightfrom-front.tap-s-box.tap-inset.tap-clickable-noinset {
         cursor: pointer; }
-.taps-shadow-wrapper .tap-lf-f.tap-shadow-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lf-f.tap-s-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-front.tap-shadow-box.inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-front.tap-s-box.inset.tap-clickable-noinset:hover {
+.taps-shadow-wrapper .tap-lf-f.tap-shadow-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lf-f.tap-s-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-front.tap-shadow-box.tap-inset.tap-clickable-noinset:hover, .taps-shadow-wrapper .tap-lightfrom-front.tap-s-box.tap-inset.tap-clickable-noinset:hover {
           box-shadow: 0px 0px 10px 10px #27262661; }
-.taps-shadow-wrapper .tap-lf-f.tap-shadow-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lf-f.tap-s-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-front.tap-shadow-box.inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-front.tap-s-box.inset.tap-clickable-noinset:active {
+.taps-shadow-wrapper .tap-lf-f.tap-shadow-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lf-f.tap-s-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-front.tap-shadow-box.tap-inset.tap-clickable-noinset:active, .taps-shadow-wrapper .tap-lightfrom-front.tap-s-box.tap-inset.tap-clickable-noinset:active {
           box-shadow: 0px 0px 10px 6px #27262661 inset; }
 .taps-shadow-wrapper .tap-lf-f.tap-shadow-box.tap-grad-circle, .taps-shadow-wrapper .tap-lf-f.tap-shadow-box.tap-g-cir, .taps-shadow-wrapper .tap-lf-f.tap-s-box.tap-grad-circle, .taps-shadow-wrapper .tap-lf-f.tap-s-box.tap-g-cir, .taps-shadow-wrapper .tap-lightfrom-front.tap-shadow-box.tap-grad-circle, .taps-shadow-wrapper .tap-lightfrom-front.tap-shadow-box.tap-g-cir, .taps-shadow-wrapper .tap-lightfrom-front.tap-s-box.tap-grad-circle, .taps-shadow-wrapper .tap-lightfrom-front.tap-s-box.tap-g-cir {
       background-image: radial-gradient(circle at 50% 50%, #06060600, #0000005c 100%) !important; }
@@ -426,7 +424,7 @@ THE SOFTWARE.
     display: flex;
     align-items: center; }
 .taps-shadow-wrapper .tap-item-to-align {
-    min-width: 100%; }
+    min-width: fit-content; }
 .taps-shadow-wrapper .tap-s-box.tap-clickable, .taps-shadow-wrapper .tap-shadow-box.tap-clickable {
     cursor: pointer; }
 .taps-shadow-wrapper .tap-s-box.tap-clickable:hover, .taps-shadow-wrapper .tap-shadow-box.tap-clickable:hover {
