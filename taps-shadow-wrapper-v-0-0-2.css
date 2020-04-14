@@ -424,7 +424,8 @@ THE SOFTWARE.
     display: flex;
     align-items: center; }
 .taps-shadow-wrapper .tap-item-to-align {
-    min-width: fit-content; }
+width: min-content;
+margin: auto }
 .taps-shadow-wrapper .tap-s-box.tap-clickable, .taps-shadow-wrapper .tap-shadow-box.tap-clickable {
     cursor: pointer; }
 .taps-shadow-wrapper .tap-s-box.tap-clickable:hover, .taps-shadow-wrapper .tap-shadow-box.tap-clickable:hover {
