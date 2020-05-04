@@ -1,0 +1,1223 @@
+/**
+The MIT License (MIT)
+Copyright (c) 2020 - Tapan M. - available in NPM repo
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+**/
+
+
+
+.sd--theme.sd--red-base {
+    color: #f44336;
+  }
+  .sd--theme.sd--pink-base {
+    color: #E91E63;
+  }
+  .sd--theme.sd--purple-base {
+    color: #9C27B0;
+  }
+  .sd--theme.sd--indigo-base {
+    color: #3F51B5;
+  }
+  .sd--theme.sd--blue-base {
+    color: #2196F3;
+  }
+  .sd--theme.sd--cyan-base {
+    color: #00BCD4;
+  }
+  .sd--theme.sd--teal-base {
+    color: #009688;
+  }
+  .sd--theme.sd--green-base {
+    color: #4CAF50;
+  }
+  .sd--theme.sd--lime-base {
+    color: #CDDC39;
+  }
+  .sd--theme.sd--yellow-base {
+    color: #FFEB3B;
+  }
+  .sd--theme.sd--orange-base {
+    color: #FF9800;
+  }
+  .sd--theme.sd--deep-orange-base {
+    color: #FF5722;
+  }
+  .sd--theme.sd--brown-base {
+    color: #795548;
+  }
+  .sd--theme.sd--grey-base {
+    color: #9E9E9E;
+  }
+  .sd--theme.sd--amber-base {
+    color: #FFC107;
+  }
+  .sd--theme.sd--secondary-base {
+    color: #0C4472;
+  }
+  .sd--theme.sd--primary-1-base {
+    color: #778095;
+  }
+  .sd--theme.sd--primary-2-base {
+    color: #2196F3;
+  }
+  .sd--theme.sd--primary-3-base {
+    color: #009688;
+  }
+  .sd--theme.sd--primary-4-base {
+    color: #2196F3;
+  }
+  .sd--theme.sd--neutral-base {
+    color: #E3EBF6;
+  }
+  .sd--theme.sd--text-base {
+    color: #26272A;
+  }
+  .sd--theme.sd--highlight-base {
+    color: #1889E5;
+  }
+  .sd--theme.sd--success-base {
+    color: #87CA42;
+  }
+  .sd--theme.sd--action-base {
+    color: #F45806;
+  }
+  .sd--theme.sd--alert-base {
+    color: #E3271B;
+  }
+  .sd--theme.sd--warning-base {
+    color: #FE9E1B;
+  }
+  .sd--theme.sd--red-ultradark {
+    color: #c62828;
+  }
+  .sd--theme.sd--pink-ultradark {
+    color: #AD1457;
+  }
+  .sd--theme.sd--purple-ultradark {
+    color: #4A148C;
+  }
+  .sd--theme.sd--indigo-ultradark {
+    color: #1A237E;
+  }
+  .sd--theme.sd--blue-ultradark {
+    color: #0D47A1;
+  }
+  .sd--theme.sd--cyan-ultradark {
+    color: #006064;
+  }
+  .sd--theme.sd--teal-ultradark {
+    color: #004D40;
+  }
+  .sd--theme.sd--green-ultradark {
+    color: #1B5E20;
+  }
+  .sd--theme.sd--lime-ultradark {
+    color: #827717;
+  }
+  .sd--theme.sd--yellow-ultradark {
+    color: #F57F17;
+  }
+  .sd--theme.sd--orange-ultradark {
+    color: #E65100;
+  }
+  .sd--theme.sd--deep-orange-ultradark {
+    color: #BF360C;
+  }
+  .sd--theme.sd--brown-ultradark {
+    color: #3E2723;
+  }
+  .sd--theme.sd--grey-ultradark {
+    color: #212121;
+  }
+  .sd--theme.sd--amber-ultradark {
+    color: #FF6F00;
+  }
+  .sd--theme.sd--secondary-ultradark {
+    color: #061F37;
+  }
+  .sd--theme.sd--primary-1-ultradark {
+    color: #1D2025;
+  }
+  .sd--theme.sd--primary-2-ultradark {
+    color: #0D47A1;
+  }
+  .sd--theme.sd--primary-3-ultradark {
+    color: #004D40;
+  }
+  .sd--theme.sd--primary-4-ultradark {
+    color: #0D47A1;
+  }
+  .sd--theme.sd--neutral-ultradark {
+    color: #383A3D;
+  }
+  .sd--theme.sd--text-ultradark {
+    color: #1B1B1C;
+  }
+  .sd--theme.sd--highlight-ultradark {
+    color: #00263C;
+  }
+  .sd--theme.sd--success-ultradark {
+    color: #223311;
+  }
+  .sd--theme.sd--action-ultradark {
+    color: #592104;
+  }
+  .sd--theme.sd--alert-ultradark {
+    color: #530F08;
+  }
+  .sd--theme.sd--warning-ultradark {
+    color: #402806;
+  }
+  .sd--theme.sd--red-darkest {
+    color: #d32f2f;
+  }
+  .sd--theme.sd--pink-darkest {
+    color: #AD1457;
+  }
+  .sd--theme.sd--purple-darkest {
+    color: #6A1B9A;
+  }
+  .sd--theme.sd--indigo-darkest {
+    color: #283593;
+  }
+  .sd--theme.sd--blue-darkest {
+    color: #0277BD;
+  }
+  .sd--theme.sd--cyan-darkest {
+    color: #00838F;
+  }
+  .sd--theme.sd--teal-darkest {
+    color: #00695C;
+  }
+  .sd--theme.sd--green-darkest {
+    color: #2E7D32;
+  }
+  .sd--theme.sd--lime-darkest {
+    color: #9E9D24;
+  }
+  .sd--theme.sd--yellow-darkest {
+    color: #F9A825;
+  }
+  .sd--theme.sd--orange-darkest {
+    color: #EF6C00;
+  }
+  .sd--theme.sd--deep-orange-darkest {
+    color: #D84315;
+  }
+  .sd--theme.sd--brown-darkest {
+    color: #4E342E;
+  }
+  .sd--theme.sd--grey-darkest {
+    color: #424242;
+  }
+  .sd--theme.sd--amber-darkest {
+    color: #FF8F00;
+  }
+  .sd--theme.sd--secondary-darkest {
+    color: #195993;
+  }
+  .sd--theme.sd--primary-1-darkest {
+    color: #383F4A;
+  }
+  .sd--theme.sd--primary-2-darkest {
+    color: #0277BD;
+  }
+  .sd--theme.sd--primary-3-darkest {
+    color: #00695C;
+  }
+  .sd--theme.sd--primary-4-darkest {
+    color: #0277BD;
+  }
+  .sd--theme.sd--neutral-darkest {
+    color: #70757A;
+  }
+  .sd--theme.sd--text-darkest {
+    color: #181A20;
+  }
+  .sd--theme.sd--highlight-darkest {
+    color: #004B79;
+  }
+  .sd--theme.sd--success-darkest {
+    color: #446521;
+  }
+  .sd--theme.sd--action-darkest {
+    color: #9C3A04;
+  }
+  .sd--theme.sd--alert-darkest {
+    color: #911912;
+  }
+  .sd--theme.sd--warning-darkest {
+    color: #7F4F0C;
+  }
+  .sd--theme.sd--red-dark {
+    color: #e53935;
+  }
+  .sd--theme.sd--pink-dark {
+    color: #C2185B;
+  }
+  .sd--theme.sd--purple-dark {
+    color: #8E24AA;
+  }
+  .sd--theme.sd--indigo-dark {
+    color: #303F9F;
+  }
+  .sd--theme.sd--blue-dark {
+    color: #0288D1;
+  }
+  .sd--theme.sd--cyan-dark {
+    color: #0097A7;
+  }
+  .sd--theme.sd--teal-dark {
+    color: #00796B;
+  }
+  .sd--theme.sd--green-dark {
+    color: #388E3C;
+  }
+  .sd--theme.sd--lime-dark {
+    color: #AFB42B;
+  }
+  .sd--theme.sd--yellow-dark {
+    color: #FBC02D;
+  }
+  .sd--theme.sd--orange-dark {
+    color: #F57C00;
+  }
+  .sd--theme.sd--deep-orange-dark {
+    color: #F4511E;
+  }
+  .sd--theme.sd--brown-dark {
+    color: #6D4C41;
+  }
+  .sd--theme.sd--grey-dark {
+    color: #616161;
+  }
+  .sd--theme.sd--amber-dark {
+    color: #FFA000;
+  }
+  .sd--theme.sd--secondary-dark {
+    color: #2E74B5;
+  }
+  .sd--theme.sd--primary-1-dark {
+    color: #595F6F;
+  }
+  .sd--theme.sd--primary-2-dark {
+    color: #0288D1;
+  }
+  .sd--theme.sd--primary-3-dark {
+    color: #00796B;
+  }
+  .sd--theme.sd--primary-4-dark {
+    color: #0288D1;
+  }
+  .sd--theme.sd--neutral-dark {
+    color: #A9B0BB;
+  }
+  .sd--theme.sd--text-dark {
+    color: #242730;
+  }
+  .sd--theme.sd--highlight-dark {
+    color: #0071B5;
+  }
+  .sd--theme.sd--success-dark {
+    color: #659832;
+  }
+  .sd--theme.sd--action-dark {
+    color: #C84805;
+  }
+  .sd--theme.sd--alert-dark {
+    color: #BA2017;
+  }
+  .sd--theme.sd--warning-dark {
+    color: #BF7712;
+  }
+  .sd--theme.sd--red-light {
+    color: #ef5350;
+  }
+  .sd--theme.sd--pink-light {
+    color: #E91E63;
+  }
+  .sd--theme.sd--purple-light {
+    color: #AB47BC;
+  }
+  .sd--theme.sd--indigo-light {
+    color: #3F51B5;
+  }
+  .sd--theme.sd--blue-light {
+    color: #03A9F4;
+  }
+  .sd--theme.sd--cyan-light {
+    color: #00BCD4;
+  }
+  .sd--theme.sd--teal-light {
+    color: #009688;
+  }
+  .sd--theme.sd--green-light {
+    color: #66BB6A;
+  }
+  .sd--theme.sd--lime-light {
+    color: #CDDC39;
+  }
+  .sd--theme.sd--yellow-light {
+    color: #FFEB3B;
+  }
+  .sd--theme.sd--orange-light {
+    color: #FF9800;
+  }
+  .sd--theme.sd--deep-orange-light {
+    color: #FF7043;
+  }
+  .sd--theme.sd--brown-light {
+    color: #795548;
+  }
+  .sd--theme.sd--grey-light {
+    color: #9E9E9E;
+  }
+  .sd--theme.sd--amber-light {
+    color: #FFC107;
+  }
+  .sd--theme.sd--secondary-light {
+    color: #4B92D4;
+  }
+  .sd--theme.sd--primary-1-light {
+    color: #999FAF;
+  }
+  .sd--theme.sd--primary-2-light {
+    color: #03A9F4;
+  }
+  .sd--theme.sd--primary-3-light {
+    color: #009688;
+  }
+  .sd--theme.sd--primary-4-light {
+    color: #03A9F4;
+  }
+  .sd--theme.sd--neutral-light {
+    color: #E9F0F8;
+  }
+  .sd--theme.sd--text-light {
+    color: #646770;
+  }
+  .sd--theme.sd--highlight-light {
+    color: #40B0F5;
+  }
+  .sd--theme.sd--success-light {
+    color: #A5D771;
+  }
+  .sd--theme.sd--action-light {
+    color: #F67833;
+  }
+  .sd--theme.sd--alert-light {
+    color: #E84E44;
+  }
+  .sd--theme.sd--warning-light {
+    color: #FEB652;
+  }
+  .sd--theme.sd--red-lightest {
+    color: #ef9a9a;
+  }
+  .sd--theme.sd--pink-lightest {
+    color: #F06292;
+  }
+  .sd--theme.sd--purple-lightest {
+    color: #CE93D8;
+  }
+  .sd--theme.sd--indigo-lightest {
+    color: #5C6BC0;
+  }
+  .sd--theme.sd--blue-lightest {
+    color: #4FC3F7;
+  }
+  .sd--theme.sd--cyan-lightest {
+    color: #4DD0E1;
+  }
+  .sd--theme.sd--teal-lightest {
+    color: #4DB6AC;
+  }
+  .sd--theme.sd--green-lightest {
+    color: #81C784;
+  }
+  .sd--theme.sd--lime-lightest {
+    color: #DCE775;
+  }
+  .sd--theme.sd--yellow-lightest {
+    color: #FFF176;
+  }
+  .sd--theme.sd--orange-lightest {
+    color: #FFB74D;
+  }
+  .sd--theme.sd--deep-orange-lightest {
+    color: #FFAB91;
+  }
+  .sd--theme.sd--brown-lightest {
+    color: #A1887F;
+  }
+  .sd--theme.sd--grey-lightest {
+    color: #BDBDBD;
+  }
+  .sd--theme.sd--amber-lightest {
+    color: #FFD54F;
+  }
+  .sd--theme.sd--secondary-lightest {
+    color: #E9F0F8;
+  }
+  .sd--theme.sd--primary-1-lightest {
+    color: #BBBFCA;
+  }
+  .sd--theme.sd--primary-2-lightest {
+    color: #4FC3F7;
+  }
+  .sd--theme.sd--primary-3-lightest {
+    color: #4DB6AC;
+  }
+  .sd--theme.sd--primary-4-lightest {
+    color: #4FC3F7;
+  }
+  .sd--theme.sd--neutral-lightest {
+    color: #F0F5FA;
+  }
+  .sd--theme.sd--text-lightest {
+    color: #989AA0;
+  }
+  .sd--theme.sd--highlight-lightest {
+    color: #80CBF8;
+  }
+  .sd--theme.sd--success-lightest {
+    color: #C3E5A1;
+  }
+  .sd--theme.sd--action-lightest {
+    color: #F89660;
+  }
+  .sd--theme.sd--alert-lightest {
+    color: #EB8982;
+  }
+  .sd--theme.sd--warning-lightest {
+    color: #FFCF8C;
+  }
+  .sd--theme.sd--red-ultralight {
+    color: #ffcdd2;
+  }
+  .sd--theme.sd--pink-ultralight {
+    color: #F8BBD0;
+  }
+  .sd--theme.sd--purple-ultralight {
+    color: #E1BEE7;
+  }
+  .sd--theme.sd--indigo-ultralight {
+    color: #C5CAE9;
+  }
+  .sd--theme.sd--blue-ultralight {
+    color: #B3E5FC;
+  }
+  .sd--theme.sd--cyan-ultralight {
+    color: #B2EBF2;
+  }
+  .sd--theme.sd--teal-ultralight {
+    color: #B2DFDB;
+  }
+  .sd--theme.sd--green-ultralight {
+    color: #C8E6C9;
+  }
+  .sd--theme.sd--lime-ultralight {
+    color: #E6EE9C;
+  }
+  .sd--theme.sd--yellow-ultralight {
+    color: #FFF59D;
+  }
+  .sd--theme.sd--orange-ultralight {
+    color: #FFE0B2;
+  }
+  .sd--theme.sd--deep-orange-ultralight {
+    color: #FFCCBC;
+  }
+  .sd--theme.sd--brown-ultralight {
+    color: #D7CCC8;
+  }
+  .sd--theme.sd--grey-ultralight {
+    color: #EEEEEE;
+  }
+  .sd--theme.sd--amber-ultralight {
+    color: #FFECB3;
+  }
+  .sd--theme.sd--secondary-ultralight {
+    color: #F6F8FB;
+  }
+  .sd--theme.sd--primary-1-ultralight {
+    color: #DCDFE4;
+  }
+  .sd--theme.sd--primary-2-ultralight {
+    color: #B3E5FC;
+  }
+  .sd--theme.sd--primary-3-ultralight {
+    color: #B2DFDB;
+  }
+  .sd--theme.sd--primary-4-ultralight {
+    color: #B3E5FC;
+  }
+  .sd--theme.sd--neutral-ultralight {
+    color: #F7F9FC;
+  }
+  .sd--theme.sd--text-ultralight {
+    color: #CBCCCF;
+  }
+  .sd--theme.sd--highlight-ultralight {
+    color: #BFE5FC;
+  }
+  .sd--theme.sd--success-ultralight {
+    color: #E1F2D0;
+  }
+  .sd--theme.sd--action-ultralight {
+    color: #FBC3A4;
+  }
+  .sd--theme.sd--alert-ultralight {
+    color: #F9D7D5;
+  }
+  .sd--theme.sd--warning-ultralight {
+    color: #FFE7C5;
+  }
+  .sd--theme.sd--red-base-bg {
+    background-color: #f44336;
+  }
+  .sd--theme.sd--pink-base-bg {
+    background-color: #E91E63;
+  }
+  .sd--theme.sd--purple-base-bg {
+    background-color: #9C27B0;
+  }
+  .sd--theme.sd--indigo-base-bg {
+    background-color: #3F51B5;
+  }
+  .sd--theme.sd--blue-base-bg {
+    background-color: #2196F3;
+  }
+  .sd--theme.sd--cyan-base-bg {
+    background-color: #00BCD4;
+  }
+  .sd--theme.sd--teal-base-bg {
+    background-color: #009688;
+  }
+  .sd--theme.sd--green-base-bg {
+    background-color: #4CAF50;
+  }
+  .sd--theme.sd--lime-base-bg {
+    background-color: #CDDC39;
+  }
+  .sd--theme.sd--yellow-base-bg {
+    background-color: #FFEB3B;
+  }
+  .sd--theme.sd--orange-base-bg {
+    background-color: #FF9800;
+  }
+  .sd--theme.sd--deep-orange-base-bg {
+    background-color: #FF5722;
+  }
+  .sd--theme.sd--brown-base-bg {
+    background-color: #795548;
+  }
+  .sd--theme.sd--grey-base-bg {
+    background-color: #9E9E9E;
+  }
+  .sd--theme.sd--amber-base-bg {
+    background-color: #FFC107;
+  }
+  .sd--theme.sd--primary-1-base-bg {
+    background-color: #778095;
+  }
+  .sd--theme.sd--primary-2-base-bg {
+    background-color: #2196F3;
+  }
+  .sd--theme.sd--primary-3-base-bg {
+    background-color: #009688;
+  }
+  .sd--theme.sd--primary-4-base-bg {
+    background-color: #778095;
+  }
+  .sd--theme.sd--secondary-base-bg {
+    background-color: #0C4472;
+  }
+  .sd--theme.sd--neutral-base-bg {
+    background-color: #E3EBF6;
+  }
+  .sd--theme.sd--text-base-bg {
+    background-color: #26272A;
+  }
+  .sd--theme.sd--highlight-base-bg {
+    background-color: #1889E5;
+  }
+  .sd--theme.sd--success-base-bg {
+    background-color: #87CA42;
+  }
+  .sd--theme.sd--action-base-bg {
+    background-color: #F45806;
+  }
+  .sd--theme.sd--alert-base-bg {
+    background-color: #E3271B;
+  }
+  .sd--theme.sd--warning-base-bg {
+    background-color: #FE9E1B;
+  }
+  .sd--theme.sd--red-ultradark-bg {
+    background-color: #c62828;
+  }
+  .sd--theme.sd--pink-ultradark-bg {
+    background-color: #AD1457;
+  }
+  .sd--theme.sd--purple-ultradark-bg {
+    background-color: #4A148C;
+  }
+  .sd--theme.sd--indigo-ultradark-bg {
+    background-color: #1A237E;
+  }
+  .sd--theme.sd--blue-ultradark-bg {
+    background-color: #0D47A1;
+  }
+  .sd--theme.sd--cyan-ultradark-bg {
+    background-color: #006064;
+  }
+  .sd--theme.sd--teal-ultradark-bg {
+    background-color: #004D40;
+  }
+  .sd--theme.sd--green-ultradark-bg {
+    background-color: #1B5E20;
+  }
+  .sd--theme.sd--lime-ultradark-bg {
+    background-color: #827717;
+  }
+  .sd--theme.sd--yellow-ultradark-bg {
+    background-color: #F57F17;
+  }
+  .sd--theme.sd--orange-ultradark-bg {
+    background-color: #E65100;
+  }
+  .sd--theme.sd--deep-orange-ultradark-bg {
+    background-color: #BF360C;
+  }
+  .sd--theme.sd--brown-ultradark-bg {
+    background-color: #3E2723;
+  }
+  .sd--theme.sd--grey-ultradark-bg {
+    background-color: #212121;
+  }
+  .sd--theme.sd--amber-ultradark-bg {
+    background-color: #FF6F00;
+  }
+  .sd--theme.sd--primary-1-ultradark-bg {
+    background-color: #1D2025;
+  }
+  .sd--theme.sd--primary-2-ultradark-bg {
+    background-color: #0D47A1;
+  }
+  .sd--theme.sd--primary-3-ultradark-bg {
+    background-color: #004D40;
+  }
+  .sd--theme.sd--primary-4-ultradark-bg {
+    background-color: #1D2025;
+  }
+  .sd--theme.sd--secondary-ultradark-bg {
+    background-color: #061F37;
+  }
+  .sd--theme.sd--neutral-ultradark-bg {
+    background-color: #383A3D;
+  }
+  .sd--theme.sd--text-ultradark-bg {
+    background-color: #1B1B1C;
+  }
+  .sd--theme.sd--highlight-ultradark-bg {
+    background-color: #00263C;
+  }
+  .sd--theme.sd--success-ultradark-bg {
+    background-color: #223311;
+  }
+  .sd--theme.sd--action-ultradark-bg {
+    background-color: #592104;
+  }
+  .sd--theme.sd--alert-ultradark-bg {
+    background-color: #530F08;
+  }
+  .sd--theme.sd--warning-ultradark-bg {
+    background-color: #402806;
+  }
+  .sd--theme.sd--red-darkest-bg {
+    background-color: #d32f2f;
+  }
+  .sd--theme.sd--pink-darkest-bg {
+    background-color: #AD1457;
+  }
+  .sd--theme.sd--purple-darkest-bg {
+    background-color: #6A1B9A;
+  }
+  .sd--theme.sd--indigo-darkest-bg {
+    background-color: #283593;
+  }
+  .sd--theme.sd--blue-darkest-bg {
+    background-color: #0277BD;
+  }
+  .sd--theme.sd--cyan-darkest-bg {
+    background-color: #00838F;
+  }
+  .sd--theme.sd--teal-darkest-bg {
+    background-color: #00695C;
+  }
+  .sd--theme.sd--green-darkest-bg {
+    background-color: #2E7D32;
+  }
+  .sd--theme.sd--lime-darkest-bg {
+    background-color: #9E9D24;
+  }
+  .sd--theme.sd--yellow-darkest-bg {
+    background-color: #F9A825;
+  }
+  .sd--theme.sd--orange-darkest-bg {
+    background-color: #EF6C00;
+  }
+  .sd--theme.sd--deep-orange-darkest-bg {
+    background-color: #D84315;
+  }
+  .sd--theme.sd--brown-darkest-bg {
+    background-color: #4E342E;
+  }
+  .sd--theme.sd--grey-darkest-bg {
+    background-color: #424242;
+  }
+  .sd--theme.sd--amber-darkest-bg {
+    background-color: #FF8F00;
+  }
+  .sd--theme.sd--primary-1-darkest-bg {
+    background-color: #383F4A;
+  }
+  .sd--theme.sd--primary-2-darkest-bg {
+    background-color: #0277BD;
+  }
+  .sd--theme.sd--primary-3-darkest-bg {
+    background-color: #00695C;
+  }
+  .sd--theme.sd--primary-4-darkest-bg {
+    background-color: #383F4A;
+  }
+  .sd--theme.sd--secondary-darkest-bg {
+    background-color: #195993;
+  }
+  .sd--theme.sd--neutral-darkest-bg {
+    background-color: #70757A;
+  }
+  .sd--theme.sd--text-darkest-bg {
+    background-color: #181A20;
+  }
+  .sd--theme.sd--highlight-darkest-bg {
+    background-color: #004B79;
+  }
+  .sd--theme.sd--success-darkest-bg {
+    background-color: #446521;
+  }
+  .sd--theme.sd--action-darkest-bg {
+    background-color: #9C3A04;
+  }
+  .sd--theme.sd--alert-darkest-bg {
+    background-color: #911912;
+  }
+  .sd--theme.sd--warning-darkest-bg {
+    background-color: #7F4F0C;
+  }
+  .sd--theme.sd--red-dark-bg {
+    background-color: #e53935;
+  }
+  .sd--theme.sd--pink-dark-bg {
+    background-color: #C2185B;
+  }
+  .sd--theme.sd--purple-dark-bg {
+    background-color: #8E24AA;
+  }
+  .sd--theme.sd--indigo-dark-bg {
+    background-color: #303F9F;
+  }
+  .sd--theme.sd--blue-dark-bg {
+    background-color: #0288D1;
+  }
+  .sd--theme.sd--cyan-dark-bg {
+    background-color: #0097A7;
+  }
+  .sd--theme.sd--teal-dark-bg {
+    background-color: #00796B;
+  }
+  .sd--theme.sd--green-dark-bg {
+    background-color: #388E3C;
+  }
+  .sd--theme.sd--lime-dark-bg {
+    background-color: #AFB42B;
+  }
+  .sd--theme.sd--yellow-dark-bg {
+    background-color: #FBC02D;
+  }
+  .sd--theme.sd--orange-dark-bg {
+    background-color: #F57C00;
+  }
+  .sd--theme.sd--deep-orange-dark-bg {
+    background-color: #F4511E;
+  }
+  .sd--theme.sd--brown-dark-bg {
+    background-color: #6D4C41;
+  }
+  .sd--theme.sd--grey-dark-bg {
+    background-color: #616161;
+  }
+  .sd--theme.sd--amber-dark-bg {
+    background-color: #FFA000;
+  }
+  .sd--theme.sd--primary-1-dark-bg {
+    background-color: #595F6F;
+  }
+  .sd--theme.sd--primary-2-dark-bg {
+    background-color: #0288D1;
+  }
+  .sd--theme.sd--primary-3-dark-bg {
+    background-color: #00796B;
+  }
+  .sd--theme.sd--primary-4-dark-bg {
+    background-color: #595F6F;
+  }
+  .sd--theme.sd--secondary-dark-bg {
+    background-color: #2E74B5;
+  }
+  .sd--theme.sd--neutral-dark-bg {
+    background-color: #A9B0BB;
+  }
+  .sd--theme.sd--text-dark-bg {
+    background-color: #242730;
+  }
+  .sd--theme.sd--highlight-dark-bg {
+    background-color: #0071B5;
+  }
+  .sd--theme.sd--success-dark-bg {
+    background-color: #659832;
+  }
+  .sd--theme.sd--action-dark-bg {
+    background-color: #C84805;
+  }
+  .sd--theme.sd--alert-dark-bg {
+    background-color: #BA2017;
+  }
+  .sd--theme.sd--warning-dark-bg {
+    background-color: #BF7712;
+  }
+  .sd--theme.sd--red-light-bg {
+    background-color: #ef5350;
+  }
+  .sd--theme.sd--pink-light-bg {
+    background-color: #E91E63;
+  }
+  .sd--theme.sd--purple-light-bg {
+    background-color: #AB47BC;
+  }
+  .sd--theme.sd--indigo-light-bg {
+    background-color: #3F51B5;
+  }
+  .sd--theme.sd--blue-light-bg {
+    background-color: #03A9F4;
+  }
+  .sd--theme.sd--cyan-light-bg {
+    background-color: #00BCD4;
+  }
+  .sd--theme.sd--teal-light-bg {
+    background-color: #009688;
+  }
+  .sd--theme.sd--green-light-bg {
+    background-color: #66BB6A;
+  }
+  .sd--theme.sd--lime-light-bg {
+    background-color: #CDDC39;
+  }
+  .sd--theme.sd--yellow-light-bg {
+    background-color: #FFEB3B;
+  }
+  .sd--theme.sd--orange-light-bg {
+    background-color: #FF9800;
+  }
+  .sd--theme.sd--deep-orange-light-bg {
+    background-color: #FF7043;
+  }
+  .sd--theme.sd--brown-light-bg {
+    background-color: #795548;
+  }
+  .sd--theme.sd--grey-light-bg {
+    background-color: #9E9E9E;
+  }
+  .sd--theme.sd--amber-light-bg {
+    background-color: #FFC107;
+  }
+  .sd--theme.sd--primary-1-light-bg {
+    background-color: #999FAF;
+  }
+  .sd--theme.sd--primary-2-light-bg {
+    background-color: #03A9F4;
+  }
+  .sd--theme.sd--primary-3-light-bg {
+    background-color: #009688;
+  }
+  .sd--theme.sd--primary-4-light-bg {
+    background-color: #999FAF;
+  }
+  .sd--theme.sd--secondary-light-bg {
+    background-color: #4B92D4;
+  }
+  .sd--theme.sd--neutral-light-bg {
+    background-color: #E9F0F8;
+  }
+  .sd--theme.sd--text-light-bg {
+    background-color: #646770;
+  }
+  .sd--theme.sd--highlight-light-bg {
+    background-color: #40B0F5;
+  }
+  .sd--theme.sd--success-light-bg {
+    background-color: #A5D771;
+  }
+  .sd--theme.sd--action-light-bg {
+    background-color: #F67833;
+  }
+  .sd--theme.sd--alert-light-bg {
+    background-color: #E84E44;
+  }
+  .sd--theme.sd--warning-light-bg {
+    background-color: #FEB652;
+  }
+  .sd--theme.sd--red-lightest-bg {
+    background-color: #ef9a9a;
+  }
+  .sd--theme.sd--pink-lightest-bg {
+    background-color: #F06292;
+  }
+  .sd--theme.sd--purple-lightest-bg {
+    background-color: #CE93D8;
+  }
+  .sd--theme.sd--indigo-lightest-bg {
+    background-color: #5C6BC0;
+  }
+  .sd--theme.sd--blue-lightest-bg {
+    background-color: #4FC3F7;
+  }
+  .sd--theme.sd--cyan-lightest-bg {
+    background-color: #4DD0E1;
+  }
+  .sd--theme.sd--teal-lightest-bg {
+    background-color: #4DB6AC;
+  }
+  .sd--theme.sd--green-lightest-bg {
+    background-color: #81C784;
+  }
+  .sd--theme.sd--lime-lightest-bg {
+    background-color: #DCE775;
+  }
+  .sd--theme.sd--yellow-lightest-bg {
+    background-color: #FFF176;
+  }
+  .sd--theme.sd--orange-lightest-bg {
+    background-color: #FFB74D;
+  }
+  .sd--theme.sd--deep-orange-lightest-bg {
+    background-color: #FFAB91;
+  }
+  .sd--theme.sd--brown-lightest-bg {
+    background-color: #A1887F;
+  }
+  .sd--theme.sd--grey-lightest-bg {
+    background-color: #BDBDBD;
+  }
+  .sd--theme.sd--amber-lightest-bg {
+    background-color: #FFD54F;
+  }
+  .sd--theme.sd--primary-1-lightest-bg {
+    background-color: #BBBFCA;
+  }
+  .sd--theme.sd--primary-2-lightest-bg {
+    background-color: #4FC3F7;
+  }
+  .sd--theme.sd--primary-3-lightest-bg {
+    background-color: #4DB6AC;
+  }
+  .sd--theme.sd--primary-4-lightest-bg {
+    background-color: #BBBFCA;
+  }
+  .sd--theme.sd--secondary-lightest-bg {
+    background-color: #E9F0F8;
+  }
+  .sd--theme.sd--neutral-lightest-bg {
+    background-color: #F0F5FA;
+  }
+  .sd--theme.sd--text-lightest-bg {
+    background-color: #989AA0;
+  }
+  .sd--theme.sd--highlight-lightest-bg {
+    background-color: #80CBF8;
+  }
+  .sd--theme.sd--success-lightest-bg {
+    background-color: #C3E5A1;
+  }
+  .sd--theme.sd--action-lightest-bg {
+    background-color: #F89660;
+  }
+  .sd--theme.sd--alert-lightest-bg {
+    background-color: #EB8982;
+  }
+  .sd--theme.sd--warning-lightest-bg {
+    background-color: #FFCF8C;
+  }
+  .sd--theme.sd--red-ultralight-bg {
+    background-color: #ffcdd2;
+  }
+  .sd--theme.sd--pink-ultralight-bg {
+    background-color: #F8BBD0;
+  }
+  .sd--theme.sd--purple-ultralight-bg {
+    background-color: #E1BEE7;
+  }
+  .sd--theme.sd--indigo-ultralight-bg {
+    background-color: #C5CAE9;
+  }
+  .sd--theme.sd--blue-ultralight-bg {
+    background-color: #B3E5FC;
+  }
+  .sd--theme.sd--cyan-ultralight-bg {
+    background-color: #B2EBF2;
+  }
+  .sd--theme.sd--teal-ultralight-bg {
+    background-color: #B2DFDB;
+  }
+  .sd--theme.sd--green-ultralight-bg {
+    background-color: #C8E6C9;
+  }
+  .sd--theme.sd--lime-ultralight-bg {
+    background-color: #E6EE9C;
+  }
+  .sd--theme.sd--yellow-ultralight-bg {
+    background-color: #FFF59D;
+  }
+  .sd--theme.sd--orange-ultralight-bg {
+    background-color: #FFE0B2;
+  }
+  .sd--theme.sd--deep-orange-ultralight-bg {
+    background-color: #FFCCBC;
+  }
+  .sd--theme.sd--brown-ultralight-bg {
+    background-color: #D7CCC8;
+  }
+  .sd--theme.sd--grey-ultralight-bg {
+    background-color: #EEEEEE;
+  }
+  .sd--theme.sd--amber-ultralight-bg {
+    background-color: #FFECB3;
+  }
+  .sd--theme.sd--primary-1-ultralight-bg {
+    background-color: #DCDFE4;
+  }
+  .sd--theme.sd--primary-2-ultralight-bg {
+    background-color: #B3E5FC;
+  }
+  .sd--theme.sd--primary-3-ultralight-bg {
+    background-color: #B2DFDB;
+  }
+  .sd--theme.sd--primary-4-ultralight-bg {
+    background-color: #DCDFE4;
+  }
+  .sd--theme.sd--secondary-ultralight-bg {
+    background-color: #F6F8FB;
+  }
+  .sd--theme.sd--neutral-ultralight-bg {
+    background-color: #F7F9FC;
+  }
+  .sd--theme.sd--text-ultralight-bg {
+    background-color: #CBCCCF;
+  }
+  .sd--theme.sd--highlight-ultralight-bg {
+    background-color: #BFE5FC;
+  }
+  .sd--theme.sd--success-ultralight-bg {
+    background-color: #E1F2D0;
+  }
+  .sd--theme.sd--action-ultralight-bg {
+    background-color: #FBC3A4;
+  }
+  .sd--theme.sd--alert-ultralight-bg {
+    background-color: #F9D7D5;
+  }
+  .sd--theme.sd--warning-ultralight-bg {
+    background-color: #FFE7C5;
+  }
+  .sd--theme.sd--title-large {
+    font-family: inherit;
+    font-weight: normal;
+    font-size: 2.25rem;
+    letter-spacing: 0rem;
+  }
+  .sd--theme.sd--title-1 {
+    font-family: inherit;
+    font-weight: normal;
+    font-size: 1.5rem;
+    letter-spacing: 0rem;
+  }
+  .sd--theme.sd--title-2 {
+    font-family: inherit;
+    font-weight: 600;
+    font-size: 1.125rem;
+    letter-spacing: 0.25px;
+  }
+  .sd--theme.sd--title-3 {
+    font-family: inherit;
+    font-weight: 600;
+    font-size: 1rem;
+    letter-spacing: 0.25px;
+  }
+  .sd--theme.sd--subtitle-1 {
+    font-family: inherit;
+    font-weight: 600;
+    font-size: 0.875rem;
+    letter-spacing: 0.25px;
+  }
+  .sd--theme.sd--subtitle-2 {
+    font-family: inherit;
+    font-weight: 600;
+    font-size: 0.75rem;
+    letter-spacing: 0.25px;
+  }
+  .sd--theme.sd--body-1 {
+    font-family: inherit;
+    font-weight: normal;
+    font-size: 0.875rem;
+    letter-spacing: 0.5px;
+  }
+  .sd--theme.sd--body-2 {
+    font-family: inherit;
+    font-weight: 600;
+    font-size: 0.875rem;
+    letter-spacing: 0.5px;
+  }
+  .sd--theme.sd--caption-1 {
+    font-family: inherit;
+    font-weight: normal;
+    font-size: 0.75rem;
+    letter-spacing: 0.15px;
+  }
+  .sd--theme.sd--caption-2 {
+    font-family: inherit;
+    font-weight: normal;
+    font-size: 0.6875rem;
+    letter-spacing: 0.15px;
+  }
+  .sd--theme.sd--button {
+    font-family: inherit;
+    font-weight: normal;
+    font-size: 0.875rem;
+    letter-spacing: 1.25px;
+  }
+  
