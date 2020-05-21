@@ -1,2 +1,2 @@
 # TapsOpenSourceCDN
-I am sharing the tools and libraries that i have created with Dev comunity.
+ If you are here it means you are an Awesome Developer with a lot for curiocity, Enjoy! 
